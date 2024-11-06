@@ -4,4 +4,4 @@
 ## Christian Perez
 ## Jeremmy Perugachi
 ## Rafael Rodriguez
-## Cgristofer Soria
+## Christofer Soria
